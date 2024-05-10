@@ -1,0 +1,143 @@
+<list>
+  <com.yrl.Store>
+    <storeCode>87574c</storeCode>
+    <manager>
+      <personCode>630db831-1fde-480a-b695-de0dea75f838</personCode>
+      <firstName>Alejandro</firstName>
+      <lastName>Grigorescu</lastName>
+      <address>
+        <street>81797 Summerview Terrace</street>
+        <city>Miami</city>
+        <state>FL</state>
+        <zip>33180</zip>
+      </address>
+      <email>
+        <string>agrigorescu0@technorati.com</string>
+      </email>
+    </manager>
+    <address>
+      <street>57 Coolidge Center</street>
+      <city>Dayton</city>
+      <state>OH</state>
+      <zip>45454</zip>
+    </address>
+  </com.yrl.Store>
+  <com.yrl.Store>
+    <storeCode>717806</storeCode>
+    <manager>
+      <personCode>74c6eee3-598f-4ed0-bb9a-a3a35201ab19</personCode>
+      <firstName>Allard</firstName>
+      <lastName>Kemmey</lastName>
+      <address>
+        <street>17880 Chive Street</street>
+        <city>San Bernardino</city>
+        <state>CA</state>
+        <zip>92410</zip>
+      </address>
+      <email>
+        <string>akemmey1@wunderground.com</string>
+      </email>
+    </manager>
+    <address>
+      <street>74437 Golden Leaf Point</street>
+      <city>Dallas</city>
+      <state>TX</state>
+      <zip>75397</zip>
+    </address>
+  </com.yrl.Store>
+  <com.yrl.Store>
+    <storeCode>f793d0</storeCode>
+    <manager>
+      <personCode>0867fada-61aa-4080-b96b-a1e79299c93a</personCode>
+      <firstName>Nonnah</firstName>
+      <lastName>Gadesby</lastName>
+      <address>
+        <street>387 1st Way</street>
+        <city>Houston</city>
+        <state>TX</state>
+        <zip>77045</zip>
+      </address>
+      <email>
+        <string>ngadesby2@umich.edu</string>
+        <string>ngadesby2@google.com</string>
+      </email>
+    </manager>
+    <address>
+      <street>10 Briar Crest Center</street>
+      <city>Lubbock</city>
+      <state>TX</state>
+      <zip>79415</zip>
+    </address>
+  </com.yrl.Store>
+  <com.yrl.Store>
+    <storeCode>ec7b86</storeCode>
+    <manager>
+      <personCode>ac277695-5cb5-4d5b-a576-a594749c2853</personCode>
+      <firstName>Bondie</firstName>
+      <lastName>Borton</lastName>
+      <address>
+        <street>90 Sommers Court</street>
+        <city>Tampa</city>
+        <state>FL</state>
+        <zip>33625</zip>
+      </address>
+      <email>
+        <string>bborton3@hostgator.com</string>
+      </email>
+    </manager>
+    <address>
+      <street>78940 Surrey Crossing</street>
+      <city>San Diego</city>
+      <state>CA</state>
+      <zip>92121</zip>
+    </address>
+  </com.yrl.Store>
+  <com.yrl.Store>
+    <storeCode>87402e</storeCode>
+    <manager>
+      <personCode>f7415135-cdfb-47bf-ada8-5049f4a29f85</personCode>
+      <firstName>Elton</firstName>
+      <lastName>Poulsum</lastName>
+      <address>
+        <street>00 Village Green Hill</street>
+        <city>Philadelphia</city>
+        <state>PA</state>
+        <zip>19131</zip>
+      </address>
+      <email>
+        <string>epoulsum4@va.gov</string>
+        <string>epoulsum4@harvard.edu</string>
+        <string>epoulsum4@t-online.de</string>
+      </email>
+    </manager>
+    <address>
+      <street>284 Karstens Place</street>
+      <city>Dayton</city>
+      <state>OH</state>
+      <zip>45454</zip>
+    </address>
+  </com.yrl.Store>
+  <com.yrl.Store>
+    <storeCode>aecb1c</storeCode>
+    <manager>
+      <personCode>56125bd5-bd14-4184-be4b-e48d5afc1cac</personCode>
+      <firstName>Peg</firstName>
+      <lastName>Skydall</lastName>
+      <address>
+        <street>0 Ridge Oak Terrace</street>
+        <city>Huntsville</city>
+        <state>AL</state>
+        <zip>35805</zip>
+      </address>
+      <email>
+        <string>pskydall5@hibu.com</string>
+      </email>
+    </manager>
+    <address>
+      <street>1 Merry Point</street>
+      <city>Fort Wayne</city>
+      <state>IN</state>
+      <zip>46896</zip>
+    </address>
+  </com.yrl.Store>
+</list>

@@ -1,0 +1,58 @@
+<list>
+  <com.yrl.Sale>
+    <saleCode>s001</saleCode>
+    <saleDate>2023-12-01</saleDate>
+    <saleItems>
+      <com.yrl.Purchase>
+        <itemCode>p002</itemCode>
+        <itemName>iPhone 12 case</itemName>
+        <basePrice defined-in="com.yrl.Product">0.0</basePrice>
+        <basePrice>0.0</basePrice>
+      </com.yrl.Purchase>
+      <com.yrl.Lease>
+        <itemCode>s005</itemCode>
+        <itemName>iPhone 14 case</itemName>
+        <basePrice>0.0</basePrice>
+        <startDate>2023-01-01</startDate>
+        <endDate>2025-12-31</endDate>
+      </com.yrl.Lease>
+    </saleItems>
+  </com.yrl.Sale>
+  <com.yrl.Sale>
+    <saleCode>s002</saleCode>
+    <saleDate>2023-11-03</saleDate>
+    <saleItems>
+      <com.yrl.Service>
+        <itemCode>s003</itemCode>
+        <itemName>Router Install Quick</itemName>
+        <baseCost>0.0</baseCost>
+        <hoursBilled>1.5</hoursBilled>
+        <serviceProvider>
+          <personCode>3e5258da-553a-4ef9-9d7a-675c9760fd5d</personCode>
+          <firstName>Mair</firstName>
+          <lastName>Attwell</lastName>
+          <address>
+            <street>14250 Starling Parkway</street>
+            <city>Madison</city>
+            <state>WI</state>
+            <zip>53790</zip>
+          </address>
+          <email>
+            <string>mattwella@sina.com.cn</string>
+          </email>
+        </serviceProvider>
+      </com.yrl.Service>
+      <com.yrl.DataPlan>
+        <itemCode>e002</itemCode>
+        <itemName>5g Premium</itemName>
+        <basePrice>0.0</basePrice>
+        <purchasedGBs>150.0</purchasedGBs>
+      </com.yrl.DataPlan>
+    </saleItems>
+  </com.yrl.Sale>
+  <com.yrl.Sale>
+    <saleCode>s003</saleCode>
+    <saleDate>2023-11-15</saleDate>
+    <saleItems/>
+  </com.yrl.Sale>
+</list>

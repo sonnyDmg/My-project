@@ -1,0 +1,77 @@
+<list>
+  <com.yrl.DataPlan>
+    <itemCode>s001</itemCode>
+    <itemName>5g Deluxe</itemName>
+    <baseCost>0.0</baseCost>
+    <basePrice>557.86</basePrice>
+    <purchasedGBs>0.0</purchasedGBs>
+  </com.yrl.DataPlan>
+  <com.yrl.Service>
+    <itemCode>p003</itemCode>
+    <itemName>Router Install Fast</itemName>
+    <baseCost>0.0</baseCost>
+    <basePrice>40.99</basePrice>
+    <hoursBilled>0.0</hoursBilled>
+  </com.yrl.Service>
+  <com.yrl.DataPlan>
+    <itemCode>s002</itemCode>
+    <itemName>5g Basic</itemName>
+    <baseCost>0.0</baseCost>
+    <basePrice>5.84</basePrice>
+    <purchasedGBs>0.0</purchasedGBs>
+  </com.yrl.DataPlan>
+  <com.yrl.Service>
+    <itemCode>s003</itemCode>
+    <itemName>Router Install Quick</itemName>
+    <baseCost>0.0</baseCost>
+    <basePrice>637.05</basePrice>
+    <hoursBilled>0.0</hoursBilled>
+  </com.yrl.Service>
+  <com.yrl.DataPlan>
+    <itemCode>e001</itemCode>
+    <itemName>4g Deluxe</itemName>
+    <baseCost>0.0</baseCost>
+    <basePrice>562.93</basePrice>
+    <purchasedGBs>0.0</purchasedGBs>
+  </com.yrl.DataPlan>
+  <com.yrl.Product>
+    <itemCode>p002</itemCode>
+    <itemName>iPhone 12 case</itemName>
+    <baseCost>0.0</baseCost>
+    <basePrice>804.19</basePrice>
+  </com.yrl.Product>
+  <com.yrl.VoicePlan>
+    <itemCode>s004</itemCode>
+    <itemName>Unlimited Talk/Text Plan</itemName>
+    <baseCost>0.0</baseCost>
+    <basePrice>952.99</basePrice>
+    <purchasedDays>0</purchasedDays>
+  </com.yrl.VoicePlan>
+  <com.yrl.Service>
+    <itemCode>e003</itemCode>
+    <itemName>Router Install Slow</itemName>
+    <baseCost>0.0</baseCost>
+    <basePrice>804.23</basePrice>
+    <hoursBilled>0.0</hoursBilled>
+  </com.yrl.Service>
+  <com.yrl.DataPlan>
+    <itemCode>e002</itemCode>
+    <itemName>5g Premium</itemName>
+    <baseCost>0.0</baseCost>
+    <basePrice>885.51</basePrice>
+    <purchasedGBs>0.0</purchasedGBs>
+  </com.yrl.DataPlan>
+  <com.yrl.Service>
+    <itemCode>p001</itemCode>
+    <itemName>Router Replacement</itemName>
+    <baseCost>0.0</baseCost>
+    <basePrice>72.47</basePrice>
+    <hoursBilled>0.0</hoursBilled>
+  </com.yrl.Service>
+  <com.yrl.Product>
+    <itemCode>s005</itemCode>
+    <itemName>iPhone 14 case</itemName>
+    <baseCost>0.0</baseCost>
+    <basePrice>487.09</basePrice>
+  </com.yrl.Product>
+</list>
